@@ -1,0 +1,23 @@
+
+## 🛠️ Tech Stack
+Languages: Python, SQL  
+Libraries: pandas, numpy, scikit-learn, PyTorch/TensorFlow, transformers, FAISS, matplotlib, seaborn  
+Tools: Power BI / Tableau, GitHub  
+Cloud (optional): AWS S3, SageMaker, EC2 (simulated for portfolio)
+
+## 📅 Timeline (High-Level)
+- Weeks 1–2: Setup, data collection, cleaning.
+- Weeks 3–5: CF + Image embeddings.
+- Weeks 6–8: Hybrid RS.
+- Weeks 9–15: Multimodal RS.
+- Weeks 16–24: Optimization, dashboard, final documentation.
+
+## 📖 Documentation
+[PR/FAQ Document]()  
+[Model Reports]()  
+[Dashboard Screenshots]()
+
+## 🚀 Future Work
+- Real-time recommendation API.
+- A/B testing simulation.
+- Explainable AI for recommendations.
